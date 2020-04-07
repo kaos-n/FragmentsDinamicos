@@ -1,0 +1,2 @@
+rootProject.name='FragmentsDinamicos'
+include ':app'
